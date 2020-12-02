@@ -5,19 +5,19 @@
 <br />
 <!-- ::>> <<:: -->
   <a href="https://www.deviantart.com/shinobiwarriordance" target="_blank">
-    <img name="da" src="/resources/da-fella.png" width="255" height="auto" type="" alt"">
-  </a><br>
+    <img name="da" src="/resources/da-fella.png" width="auto" height="124" type="" alt"">
+  </a>
 <!-- ::>> <<:: -->
   <a href="https://www.htfr.com/" target="_blank">
-    <img name="htfr" src="/resources/htfr.png" width="255" height="auto" type="" alt"" decoding="async">
+    <img name="htfr" src="/resources/htfr.png" width="auto" height="124" type="" alt"" decoding="async">
   </a><br> 
 <!-- ::>> <<:: -->
   <a href="" target="_blank">
-    <img name="" src="/resources/kik.png" width="255" height="auto" type="" alt"" decoding="async">
-  </a><br>
+    <img name="" src="/resources/kik.png" width="auto" height="124" type="" alt"" decoding="async">
+  </a>
 <!-- ::>> <<:: -->
   <a href="" target="_blank">
-    <img name="code_project" src="/resources/CodeProject250x135.gif" width="255" height="auto" type="" alt"" decoding="async">
+    <img name="code_project" src="/resources/CodeProject250x135.gif" width="auto" height="124" type="" alt"" decoding="async">
   </a><br>
 <!-- ::>> <<:: -->
 
