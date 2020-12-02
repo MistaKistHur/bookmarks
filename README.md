@@ -94,8 +94,8 @@
 </a><br>
 <!-- ::>> <<:: -->
 <a href="" target="_blank">
-  <img name="" src="/resources/"
-       width="" height="" type=""
+  <img name="" src="/resources/artStation.png"
+       width="122" height="auto" type=""
        alt"" decoding="async">
 </a><br>
 <!-- ::>> <<:: -->
