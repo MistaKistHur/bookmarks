@@ -20,15 +20,23 @@
     <img name="code_project" src="/resources/CodeProject250x135.gif" width="auto" height="124" type="" alt"" decoding="async">
   </a><br>
 <!-- ::>> <<:: -->
+  <a href="" target="_blank">
+    <img name="" src="/resources/shroomery.webp" width="" height="" type="" alt"" decoding="async">
+  </a><br>
+<!-- ::>> <<:: -->
+<a href="" target="_blank">
+  <img name="" src="/resources/skindeep.jpg" width="" height="" type="" alt"" decoding="async">
+</a><br>
+<!-- ::>> <<:: -->
+
+<!-- ::>> <<:: -->
+
+<!-- ::>> <<:: -->
 
 <!-- ::>> <<:: -->
 
 
 
-
-
-<a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
-<a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
 <a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
 <a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
 <a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
