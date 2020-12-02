@@ -79,8 +79,8 @@
 </a><br>
 <!-- ::>> <<:: -->
 <a href="" target="_blank">
-  <img name="" src="/resources/"
-       width="" height="" type=""
+  <img name="" src="/resources/animaker-new-logo.png"
+       width="auto" height="68" type=""
        alt"" decoding="async">
 </a><br>
 <!-- ::>> <<:: -->
