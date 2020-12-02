@@ -31,26 +31,34 @@
   <a href="" target="_blank">
     <img name="" src="/resources/shroomery.webp"
          width="auto" height="124"
+         type="img/webp" alt"" decoding="async">
+  </a><br>
+<!-- ::>> <<:: -->
+  <a href="" target="_blank">
+    <img name="" src="/resources/skindeep.jpg"
+         width="auto" height="124"
+         type="img/jpg" alt"" decoding="async">
+  </a><br>
+<!-- ::>> <<:: -->
+  <a href="" target="_blank">
+    <img name="" src="/resources/phaser.png"
+         width="auto" height="124" 
+         type="img/png" alt"" decoding="async">
+  </a><br>
+<!-- ::>> <<:: -->
+  <a href="" target="_blank">
+    <img name="" src="/resources/codepen.png"
+         width="auto" height="124"
          type="" alt"" decoding="async">
   </a><br>
 <!-- ::>> <<:: -->
-<a href="" target="_blank">
-  <img name="" src="/resources/skindeep.jpg"
-       width="auto" height="124"
-       type="" alt"" decoding="async">
-</a><br>
-<!-- ::>> <<:: -->
-
-<!-- ::>> <<:: -->
-
-<!-- ::>> <<:: -->
 
 <!-- ::>> <<:: -->
 
 
 
-<a href="" target="_blank"><img name="" src="/resources/phaser.png" width="" height="" type="" alt"" decoding="async"></a><br>
-<a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
+
+
 <a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
 <a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
 <a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
