@@ -30,7 +30,7 @@
 <!-- ::>> <<:: -->
   <a href="" target="_blank">
     <img name="" src="/resources/shroomery.webp"
-         width="auto" height="124"
+         width="452" height="auto"
          type="img/webp" alt"" decoding="async">
   </a><br>
 <!-- ::>> <<:: -->
@@ -42,21 +42,23 @@
 <!-- ::>> <<:: -->
   <a href="" target="_blank">
     <img name="" src="/resources/phaser.png"
-         width="auto" height="124" 
+         width="auto" height="128" 
          type="img/png" alt"" decoding="async">
-  </a><br>
+  </a>
+<!-- ::>> <<:: -->
+  <a href="" target="_blank">
+    <img name="" src="/resources/art4codingSqSearchSvg.png"
+         width="auto" height="124" type=""
+         alt"" decoding="async">
+  </a><br>  
+  
 <!-- ::>> <<:: -->
   <a href="" target="_blank">
     <img name="" src="/resources/codepen.png"
          width="auto" height="124"
          type="" alt"" decoding="async">
   </a><br>
-<!-- ::>> <<:: -->
-  <a href="" target="_blank">
-    <img name="" src="/resources/art4codingSqSearchSvg.png"
-         width="auto" height="124" type=""
-         alt"" decoding="async">
-  </a><br>
+
 <!-- ::>> <<:: -->
 <a href="" target="_blank">
   <img name="" src="/resources/Art4Codingh1.png"
