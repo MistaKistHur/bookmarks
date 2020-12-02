@@ -66,15 +66,42 @@
        alt"" decoding="async">
 </a><br>
 <!-- ::>> <<:: -->
-
+<a href="" target="_blank">
+  <img name="" src="/resources/hyperCmd.png"
+       width="" height="" type=""
+       alt"" decoding="async">
+</a><br>
 <!-- ::>> <<:: -->
-
+<a href="" target="_blank">
+  <img name="" src="/resources/javascript-node-js.png"
+       width="" height="" type=""
+       alt"" decoding="async">
+</a><br>
 <!-- ::>> <<:: -->
-
+<a href="" target="_blank">
+  <img name="" src="/resources/"
+       width="" height="" type=""
+       alt"" decoding="async">
+</a><br>
 <!-- ::>> <<:: -->
-
-
-
+<a href="" target="_blank">
+  <img name="" src="/resources/"
+       width="" height="" type=""
+       alt"" decoding="async">
+</a><br>
+<!-- ::>> <<:: -->
+<a href="" target="_blank">
+  <img name="" src="/resources/"
+       width="" height="" type=""
+       alt"" decoding="async">
+</a><br>
+<!-- ::>> <<:: -->
+<a href="" target="_blank">
+  <img name="" src="/resources/"
+       width="" height="" type=""
+       alt"" decoding="async">
+</a><br>
+<!-- ::>> <<:: -->
 <a href="" target="_blank">
   <img name="" src="/resources/"
        width="" height="" type=""
