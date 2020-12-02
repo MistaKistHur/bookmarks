@@ -36,7 +36,7 @@
 <!-- ::>> <<:: -->
   <a href="" target="_blank">
     <img name="" src="/resources/skindeep.jpg"
-         width="auto" height="118"
+         width="auto" height="104"
          type="img/jpg" alt"" decoding="async">
   </a><br>
 <!-- ::>> <<:: -->
@@ -55,7 +55,7 @@
 <!-- ::>> <<:: -->
   <a href="" target="_blank">
     <img name="" src="/resources/codepen.png"
-         width="auto" height="108"
+         width="auto" height="88"
          type="" alt"" decoding="async">
   </a><br>
 
