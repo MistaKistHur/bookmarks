@@ -97,8 +97,8 @@
 </a><br>
 <!-- ::>> <<:: -->
 <a href="" target="_blank">
-  <img name="" src="/resources/"
-       width="" height="" type=""
+  <img name="" src="/resources/facebook.png"
+       width="84" height="auto" type=""
        alt"" decoding="async">
 </a><br>
 <!-- ::>> <<:: -->
