@@ -52,17 +52,34 @@
          type="" alt"" decoding="async">
   </a><br>
 <!-- ::>> <<:: -->
+  <a href="" target="_blank">
+    <img name="" src="/resources/art4codingSqSearchSvg.png"
+         width="auto" height="124" type=""
+         alt"" decoding="async">
+  </a><br>
+<!-- ::>> <<:: -->
+<a href="" target="_blank">
+  <img name="" src="/resources/Art4Codingh1.png"
+       width="auto" height="124" type=""
+       alt"" decoding="async">
+</a><br>
+<!-- ::>> <<:: -->
+
+<!-- ::>> <<:: -->
+
+<!-- ::>> <<:: -->
 
 <!-- ::>> <<:: -->
 
 
 
-
-
-<a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
-<a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
-<a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
-<a href="" target="_blank"><img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
+<a href="" target="_blank">
+  <img name="" src="/resources/"
+       width="" height="" type=""
+       alt"" decoding="async">
+</a><br>
+<a href="" target="_blank">
+  <img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
 
 
 
