@@ -1,5 +1,8 @@
 # bookmarks
-<h2>personal page, just to bring all my regular bookmarks into one place, with grapphics</h2>
+<section align="center">
+  <h2>personal page, just to bring all my regular bookmarks into one place, with grapphics</h2>
+  <span>Any Logos contained from here on in <br />
+        are used solely for educational & research purposes only</span>
 
 <br />
 <br />
@@ -85,8 +88,8 @@
 </a><br>
 <!-- ::>> <<:: -->
 <a href="" target="_blank">
-  <img name="" src="/resources/"
-       width="" height="" type=""
+  <img name="" src="/resources/artStreet.png"
+       width="208" height="208" type=""
        alt"" decoding="async">
 </a><br>
 <!-- ::>> <<:: -->
@@ -109,6 +112,12 @@
 </a><br>
 <a href="" target="_blank">
   <img name="" src="/resources/" width="" height="" type="" alt"" decoding="async"></a><br>
+  
+  
+  
+  
+  
+</section>
 
 
 
