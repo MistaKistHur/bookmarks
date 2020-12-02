@@ -36,7 +36,7 @@
 <!-- ::>> <<:: -->
   <a href="" target="_blank">
     <img name="" src="/resources/skindeep.jpg"
-         width="auto" height="124"
+         width="auto" height="118"
          type="img/jpg" alt"" decoding="async">
   </a><br>
 <!-- ::>> <<:: -->
@@ -55,14 +55,14 @@
 <!-- ::>> <<:: -->
   <a href="" target="_blank">
     <img name="" src="/resources/codepen.png"
-         width="auto" height="124"
+         width="auto" height="108"
          type="" alt"" decoding="async">
   </a><br>
 
 <!-- ::>> <<:: -->
 <a href="" target="_blank">
   <img name="" src="/resources/Art4Codingh1.png"
-       width="auto" height="124" type=""
+       width="auto" height="118" type=""
        alt"" decoding="async">
 </a><br>
 <!-- ::>> <<:: -->
