@@ -55,14 +55,14 @@
 <!-- ::>> <<:: -->
   <a href="" target="_blank">
     <img name="" src="/resources/codepen.png"
-         width="auto" height="88"
+         width="auto" height="72"
          type="" alt"" decoding="async">
   </a><br>
 
 <!-- ::>> <<:: -->
 <a href="" target="_blank">
   <img name="" src="/resources/Art4Codingh1.png"
-       width="auto" height="118" type=""
+       width="auto" height="72" type=""
        alt"" decoding="async">
 </a><br>
 <!-- ::>> <<:: -->
